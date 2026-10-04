@@ -1,0 +1,6 @@
+{
+  "name": "sekarsiti - Undangan Pernikahan Digital Terkurasi",
+  "description": "Koleksi undangan digital dengan desain yang menarik, mudah disesuaikan, dan harga yang bersahabat. Untuk hari yang punya cerita.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
